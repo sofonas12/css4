@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    height: auto;
+    position: relative;
+    
+}
+.box{
+    border: 5px solid black;
+    margin: 20px auto;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 10px;
+    background-color: red;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+    /* opacity: 0.5; */
+  }
+
